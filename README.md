@@ -12,6 +12,12 @@ Dot files for my Arch system.
 - Status bar: [i3bar](https://github.com/i3/i3)
 - File manager: [ranger](https://github.com/ranger/ranger)
 
+## Todo
+- [X] LightDM lockscreen
+- [X] Auto Xresources merging
+- [ ] URvxt dynamic font changes upon keycombo
+- [ ] i3wm windows classification system
+
 ## Screenshots
 ![desktop](https://raw.githubusercontent.com/ShehryarX/dotfiles/master/screenshots/desktop.png "desktop")
 ![urxvt](https://raw.githubusercontent.com/ShehryarX/dotfiles/master/screenshots/urxvt.png "urxvt")
