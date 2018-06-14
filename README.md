@@ -4,6 +4,7 @@ Dot files for my Arch system.
 ## Setup
 - Distro: [Majaro Architect](https://manjaro.org/)
 - Windows Manager: [i3wm](https://i3wm.org/)
+- Composite Manager: [compton](https://github.com/chjj/compton)
 - Search bar: [rofi](https://github.com/DaveDavenport/rofi)
 - Power management: [tlp](https://github.com/linrunner/TLP), [powertop](https://github.com/fenrus75/powertop), [htop](https://github.com/hishamhm/htop)
 - LaTeX editor: [Kile](https://kile.sourceforge.io/)
