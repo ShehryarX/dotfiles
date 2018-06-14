@@ -15,3 +15,4 @@ Dot files for my Arch system.
 ![i3wm](https://raw.githubusercontent.com/ShehryarX/dotfiles/master/screenshots/i3wm.png "i3wm")
 ![latex](https://raw.githubusercontent.com/ShehryarX/dotfiles/master/screenshots/latex.png "latex")
 ![ranger](https://raw.githubusercontent.com/ShehryarX/dotfiles/master/screenshots/ranger.png "ranger")
+![htop](https://raw.githubusercontent.com/ShehryarX/dotfiles/master/screenshots/htop.png "htop")
